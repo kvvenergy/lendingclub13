@@ -1,6 +1,6 @@
 ## Lending Club – Group 13
 
-# Motivation
+# Motivation for PAPER
 - Introduce the project motivation both as a whole as well as motivations
 for important defining aspects of your work. For example were there any visualization
 or UI primitives that informed your work?
